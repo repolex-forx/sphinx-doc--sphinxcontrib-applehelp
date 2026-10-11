@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-applehelp/commit/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c",
       "git:hexsha": "f4f9d900b238d03da601bf7c75cff5bcbcee6d7c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0.0"
     },
     {
