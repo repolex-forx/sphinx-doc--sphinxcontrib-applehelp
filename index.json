@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxcontrib-applehelp",
+  "versions": [
+    {
+      "commit": "f4f9d900b238d03da601bf7c75cff5bcbcee6d7c",
+      "tag": "2.0.0",
+      "parsed_at": "2026-10-11T23:26:04.305179+00:00"
+    }
+  ]
+}
