@@ -2,15 +2,17 @@
 
 > **Commit:** [`f4f9d900`](https://github.com/sphinx-doc/sphinxcontrib-applehelp/commit/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c)
 > **Health Score:** 🟢 **100/100** · **Verdict:** OPTIMAL (100% Clean DAG Architecture)
-> **Query Latency:** 61.99 ms | **Verified Knowledge Quads:** 20,581
+> **Query Latency:** 112.74 ms | **Verified Knowledge Quads:** 23,228
 
 ---
 
 ### 📊 Ingested Knowledge Graphs
 | Graph Layer | Verified Quads | Graph Named IRI |
 |---|---|---|
+| **LSP** |      1,400 | `https://repolex.ai/r/sphinx-doc/sphinxcontrib-applehelp/lsp/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c` |
 | **AST** |     17,597 | `https://repolex.ai/r/sphinx-doc/sphinxcontrib-applehelp/ast/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c` |
-| **REPOLEX** |      2,984 | `https://repolex.ai/r/sphinx-doc/sphinxcontrib-applehelp/repolex/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c` |
+| **DEP** |         41 | `https://repolex.ai/r/sphinx-doc/sphinxcontrib-applehelp/dep/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c` |
+| **REPOLEX** |      4,190 | `https://repolex.ai/r/sphinx-doc/sphinxcontrib-applehelp/repolex/f4f9d900b238d03da601bf7c75cff5bcbcee6d7c` |
 
 ### 📐 Codebase Scale & Syntax Analysis (AST)
 | Architectural Metric | Measurement | Description |
@@ -21,9 +23,6 @@
 | **Implementation Blocks** | **0** | Type implementation blocks (`impl`) |
 | **Macro Invocations** | **0** | Macro expansion calls |
 | **Call Expressions** | **0** | Function invocation AST nodes |
-
-### 📦 External Crate Invocations
-*LSP cross-repo resolution graph not yet generated for this commit (requires `forx enrich` step).* 
 
 ### 🔄 Directed Acyclic Graph (DAG) & Cycle Audit
 - **DAG Integrity:** ✅ **PASS** (Zero circular dependencies detected)

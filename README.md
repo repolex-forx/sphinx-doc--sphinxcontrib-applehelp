@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── f4f9d900b238d03da601bf7c75cff5bcbcee6d7c
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── f4f9d900b238d03da601bf7c75cff5bcbcee6d7c.nq.gz
 │   └── repolex
 │       └── f4f9d900b238d03da601bf7c75cff5bcbcee6d7c
 │           └── chunk-001.nq.gz
@@ -168,6 +170,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── f4f9d900b238d03da601bf7c75cff5bcbcee6d7c.nq.gz
 ├── filetree
 │   └── f4f9d900b238d03da601bf7c75cff5bcbcee6d7c.nq.gz
 ├── pr
@@ -175,7 +179,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-12 directories, 129 files
+14 directories, 131 files
 ```
 
 | Directory | What it contains |
@@ -196,4 +200,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [sphinx-doc/sphinxcontrib-applehelp](https://github.com/sphinx-doc/sphinxcontrib-applehelp)
 
 ---
-*Parsed on 2026-10-11 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-21 by [repolex](https://repolex.ai)*
